@@ -1,0 +1,40 @@
+body{
+	background-image:url(2.jpg);
+	background-size: 100%;
+	margin:0;
+	
+}
+.father{
+
+	margin-top:60px;
+	margin-left:650px;
+	display: flex;
+	justify-content: center;
+	border: dable;
+	width: 220px;
+	height: 220px;
+}
+.father img{
+	width: 220px;
+	height: 220px;
+	border: solid 5px #fff;
+    outline: solid 5px #888;
+
+}
+.sister{
+	;
+	
+
+}
+
+h1{
+	margin-left: -290px;
+	margin-top:240px;
+	font-size:37px;
+	color: white;
+}
+table{
+	margin-top:400px;
+
+}
+
